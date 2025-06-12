@@ -1,12 +1,19 @@
-meow meow meow!
+# m0chacat
 
-![Profile views](https://komarev.com/ghpvc/?username=M0chaCat&label=Profile%20views&color=ff69b4&style=flat) (its so high ik right)
+meow meow meow
 
-my keyboard layout is [meowmak](https://github.com/MeowArcane/M0chaCat)
+[![profile views](https://komarev.com/ghpvc/?username=M0chaCat&label=profile%20views&color=ff69b4&style=flat)](https://github.com/M0chaCat)  
 
-<div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=M0chaCat&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
-    <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=M0chaCat&theme=tokyonight&hide_border=true" alt="MeowArcane's Streak" height="165">-->
-  </p>
-</div>
+## about
+
+meowy kitty cat  
+i typey on my custom layout, [meowmak](https://github.com/MeowArcane/M0chaCat)  
+
+## stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M0chaCat&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
+  <!--
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M0chaCat&theme=tokyonight&hide_border=true" height="165" />
+  -->
+</p>
