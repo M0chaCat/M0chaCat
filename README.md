@@ -7,7 +7,7 @@ meow meow meow
 ## about
 
 meowy kitty cat  
-i typey on my custom layout, [meowmak](https://github.com/MeowArcane/M0chaCat)  
+i typey on carpalx, and used to type on my custom layout, [meowmak](https://github.com/MeowArcane/M0chaCat)  
 
 ## stats
 
