@@ -1,4 +1,6 @@
-# m0chacat
+# m0chaCat
+
+https://plushiekitty.party
 
 meow meow meow
 
@@ -8,12 +10,11 @@ meow meow meow
 
 meowy kitty cat  
 i typey on carpalx, and used to type on my custom layout, [meowmak](https://github.com/MeowArcane/M0chaCat)  
-
+<!--
 ## stats
 
-<p align="center">
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M0chaCat&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <!--
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M0chaCat&theme=tokyonight&hide_border=true" height="165" />
-  -->
 </p>
+  -->
