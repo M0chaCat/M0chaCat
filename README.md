@@ -1,5 +1,3 @@
-# m0chaCat
-
 https://plushiekitty.party
 
 meow meow meow
